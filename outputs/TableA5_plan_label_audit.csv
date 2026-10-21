@@ -1,0 +1,7 @@
+﻿Condition,Records,Exempt_records,Exempt_percent
+Three or more basement floors (proxy for excavation ≥10 m),7324,277,3.7820862916439104
+Ten or more storeys above ground,10651,345,3.239132475823866
+Railway or urban-railway work,704,59,8.380681818181818
+"Tower crane, pile driver/extractor, or drilling rig",472,30,6.3559322033898304
+Any reconstructible condition among exempt records,7238,585,8.082343188726167
+Complete analytic frame (baseline),33987,7238,21.296378026892636

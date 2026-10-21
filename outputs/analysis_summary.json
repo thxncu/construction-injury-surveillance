@@ -1,0 +1,220 @@
+{
+  "source_records": 37196,
+  "acute_traumatic_frame": 32700,
+  "recurring_sample": 28821,
+  "event_configurations": 3493,
+  "inferential_anchor_within_band_direct_support": {
+    "specification": "event configuration × workforce band fixed effects",
+    "restricted_to_mixed_strata": false,
+    "n": 28821,
+    "fixed_effect_strata": 10099,
+    "mixed_fixed_effect_strata": 1952,
+    "wald_chi2": 7.406339941566549,
+    "df": 5,
+    "p": 0.1921312316469311,
+    "trend_pp_per_band": -0.3454101520324413,
+    "trend_ci_pp": [
+      -0.6548783948138256,
+      -0.03594190925105697
+    ],
+    "trend_p": 0.028699051048496554
+  },
+  "direct_support_mixed_strata_only": {
+    "specification": "event configuration × workforce band fixed effects",
+    "restricted_to_mixed_strata": true,
+    "n": 13847,
+    "fixed_effect_strata": 1952,
+    "mixed_fixed_effect_strata": 1952,
+    "wald_chi2": 6.691691564851371,
+    "df": 5,
+    "p": 0.24459766853805,
+    "trend_pp_per_band": -0.33895265280555864,
+    "trend_ci_pp": [
+      -0.6534691717460405,
+      -0.024436133865076738
+    ],
+    "trend_p": 0.03466570025360989
+  },
+  "complementary_pooled_like_event": {
+    "wald_chi2": 12.032079823105148,
+    "df": 5,
+    "p": 0.03435084701707144,
+    "reference_band": "500+",
+    "trend_interpretation": "Average change in the exemption contrast for a one-category increase in the ordered workforce score; category spacing is not assumed to represent equal worker increments."
+  },
+  "exploratory_ordinal_trends": {
+    "direct_support_pp_per_band": -0.3454101520324413,
+    "direct_support_p": 0.028699051048496554,
+    "pooled_like_event_pp_per_band": -0.3787817477113513,
+    "pooled_like_event_p": 0.005248545753036715
+  },
+  "within_band_direct_counts": [
+    {
+      "Workforce_band": "<20",
+      "Mixed_event_configurations": 1066,
+      "Outcome_varying_mixed_strata": 190,
+      "Covered_incidents_mixed": 3726,
+      "Covered_deaths_mixed": 123,
+      "Exempt_incidents_mixed": 3335,
+      "Exempt_deaths_mixed": 264
+    },
+    {
+      "Workforce_band": "20–49",
+      "Mixed_event_configurations": 365,
+      "Outcome_varying_mixed_strata": 33,
+      "Covered_incidents_mixed": 2036,
+      "Covered_deaths_mixed": 29,
+      "Exempt_incidents_mixed": 605,
+      "Exempt_deaths_mixed": 17
+    },
+    {
+      "Workforce_band": "50–99",
+      "Mixed_event_configurations": 194,
+      "Outcome_varying_mixed_strata": 8,
+      "Covered_incidents_mixed": 1068,
+      "Covered_deaths_mixed": 5,
+      "Exempt_incidents_mixed": 267,
+      "Exempt_deaths_mixed": 3
+    },
+    {
+      "Workforce_band": "100–299",
+      "Mixed_event_configurations": 151,
+      "Outcome_varying_mixed_strata": 7,
+      "Covered_incidents_mixed": 1414,
+      "Covered_deaths_mixed": 10,
+      "Exempt_incidents_mixed": 184,
+      "Exempt_deaths_mixed": 2
+    },
+    {
+      "Workforce_band": "300–499",
+      "Mixed_event_configurations": 35,
+      "Outcome_varying_mixed_strata": 2,
+      "Covered_incidents_mixed": 170,
+      "Covered_deaths_mixed": 1,
+      "Exempt_incidents_mixed": 41,
+      "Exempt_deaths_mixed": 1
+    },
+    {
+      "Workforce_band": "500+",
+      "Mixed_event_configurations": 141,
+      "Outcome_varying_mixed_strata": 3,
+      "Covered_incidents_mixed": 755,
+      "Covered_deaths_mixed": 4,
+      "Exempt_incidents_mixed": 246,
+      "Exempt_deaths_mixed": 0
+    }
+  ],
+  "endpoint_heterogeneity_tests": [
+    {
+      "Diagnostic": "Exclude <20",
+      "Model": "Within-band fixed effects",
+      "n": 19344,
+      "Wald_chi2": 1.6263785007255718,
+      "df": 4,
+      "p": 0.8040434742293372
+    },
+    {
+      "Diagnostic": "Exclude <20",
+      "Model": "Pooled fixed effects",
+      "n": 19344,
+      "Wald_chi2": 4.365407839976148,
+      "df": 4,
+      "p": 0.3588062265310056
+    },
+    {
+      "Diagnostic": "Exclude 500+",
+      "Model": "Within-band fixed effects",
+      "n": 26459,
+      "Wald_chi2": 3.4701121167742346,
+      "df": 4,
+      "p": 0.48243739107377226
+    },
+    {
+      "Diagnostic": "Exclude 500+",
+      "Model": "Pooled fixed effects",
+      "n": 26459,
+      "Wald_chi2": 3.9400047227673305,
+      "df": 4,
+      "p": 0.41418621421612845
+    },
+    {
+      "Diagnostic": "Equality across four middle bands",
+      "Model": "Within-band fixed effects",
+      "n": 28821,
+      "Wald_chi2": 0.36775741972675186,
+      "df": 3,
+      "p": 0.9468194811032256
+    },
+    {
+      "Diagnostic": "Equality across four middle bands",
+      "Model": "Pooled fixed effects",
+      "n": 28821,
+      "Wald_chi2": 0.46249137311496497,
+      "df": 3,
+      "p": 0.9270511437770754
+    }
+  ],
+  "sparse_500_diagnostics": [
+    {
+      "Comparison": "All 500+ reports",
+      "Exempt_deaths": 1,
+      "Exempt_incidents": 313,
+      "Covered_deaths": 32,
+      "Covered_incidents": 2049,
+      "Raw_risk_difference_pp": -1.242248615002721,
+      "Newcombe_CI_low_pp": -1.9292212089285241,
+      "Newcombe_CI_high_pp": 0.2939078663965049,
+      "Fisher_exact_p": 0.11516776522842523,
+      "Mixed_strata": NaN,
+      "Outcome_varying_mixed_strata": NaN
+    },
+    {
+      "Comparison": "Mixed strata (within-band model)",
+      "Exempt_deaths": 0,
+      "Exempt_incidents": 246,
+      "Covered_deaths": 4,
+      "Covered_incidents": 755,
+      "Raw_risk_difference_pp": -0.5298013245033113,
+      "Newcombe_CI_low_pp": -1.3542489209711783,
+      "Newcombe_CI_high_pp": 1.0414381689724688,
+      "Fisher_exact_p": 0.5773525382343019,
+      "Mixed_strata": 141.0,
+      "Outcome_varying_mixed_strata": 3.0
+    }
+  ],
+  "one_event_perturbation": [
+    {
+      "Model": "Within-band fixed effects",
+      "Observed_pp": -0.5734263992726379,
+      "Candidate_nonfatal_records": 246,
+      "One_nonfatal_to_fatal_min_pp": -0.37835920622782326,
+      "One_nonfatal_to_fatal_max_pp": 0.026531191397741738,
+      "Candidate_fatal_records": 0,
+      "One_fatal_to_nonfatal_min_pp": NaN,
+      "One_fatal_to_nonfatal_max_pp": NaN
+    },
+    {
+      "Model": "Pooled fixed effects",
+      "Observed_pp": -1.0461619436672733,
+      "Candidate_nonfatal_records": 312,
+      "One_nonfatal_to_fatal_min_pp": -0.924660121081236,
+      "One_nonfatal_to_fatal_max_pp": -0.6758900112748615,
+      "Candidate_fatal_records": 1,
+      "One_fatal_to_nonfatal_min_pp": -1.371316840913079,
+      "One_fatal_to_nonfatal_max_pp": -1.371316840913079
+    }
+  ],
+  "reporting_weighted_crossings": {
+    "within_band_direct_support": {
+      "model": "Within-band fixed effects",
+      "under20_simple_contrast_zero_crossing": 0.6680803083177381,
+      "under20_vs_largest_difference_zero_crossing": 0.4769097543538739,
+      "weighting_interpretation": "A nonfatal incident in the under-20 exempt group receives frequency weight 1/r; fatal incidents and all other records retain weight 1."
+    },
+    "pooled_like_event": {
+      "under20_simple_contrast_zero_crossing": 0.7297666648964936,
+      "under20_vs_largest_difference_zero_crossing": 0.4282545893358401,
+      "weighting_interpretation": "A nonfatal incident in the under-20 exempt group receives frequency weight 1/r; fatal incidents and all other groups retain weight 1."
+    }
+  }
+}

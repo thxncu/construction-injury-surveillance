@@ -1,0 +1,3 @@
+﻿Model,Observed_pp,Candidate_nonfatal_records,One_nonfatal_to_fatal_min_pp,One_nonfatal_to_fatal_max_pp,Candidate_fatal_records,One_fatal_to_nonfatal_min_pp,One_fatal_to_nonfatal_max_pp
+Within-band fixed effects,-0.5734263992726379,246,-0.37835920622782326,0.026531191397741738,0,,
+Pooled fixed effects,-1.0461619436672733,312,-0.924660121081236,-0.6758900112748615,1,-1.371316840913079,-1.371316840913079

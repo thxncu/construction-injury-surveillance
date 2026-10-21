@@ -1,0 +1,7 @@
+﻿Diagnostic,Model,n,Wald_chi2,df,p
+Exclude <20,Within-band fixed effects,19344,1.6263785007255718,4,0.8040434742293372
+Exclude <20,Pooled fixed effects,19344,4.365407839976148,4,0.3588062265310056
+Exclude 500+,Within-band fixed effects,26459,3.4701121167742346,4,0.48243739107377226
+Exclude 500+,Pooled fixed effects,26459,3.9400047227673305,4,0.41418621421612845
+Equality across four middle bands,Within-band fixed effects,28821,0.36775741972675186,3,0.9468194811032256
+Equality across four middle bands,Pooled fixed effects,28821,0.46249137311496497,3,0.9270511437770754

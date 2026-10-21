@@ -1,0 +1,34 @@
+{
+  "all_recurring_records": {
+    "specification": "event configuration × workforce band fixed effects",
+    "restricted_to_mixed_strata": false,
+    "n": 28821,
+    "fixed_effect_strata": 10099,
+    "mixed_fixed_effect_strata": 1952,
+    "wald_chi2": 7.406339941566549,
+    "df": 5,
+    "p": 0.1921312316469311,
+    "trend_pp_per_band": -0.3454101520324413,
+    "trend_ci_pp": [
+      -0.6548783948138256,
+      -0.03594190925105697
+    ],
+    "trend_p": 0.028699051048496554
+  },
+  "mixed_strata_only": {
+    "specification": "event configuration × workforce band fixed effects",
+    "restricted_to_mixed_strata": true,
+    "n": 13847,
+    "fixed_effect_strata": 1952,
+    "mixed_fixed_effect_strata": 1952,
+    "wald_chi2": 6.691691564851371,
+    "df": 5,
+    "p": 0.24459766853805,
+    "trend_pp_per_band": -0.33895265280555864,
+    "trend_ci_pp": [
+      -0.6534691717460405,
+      -0.024436133865076738
+    ],
+    "trend_p": 0.03466570025360989
+  }
+}

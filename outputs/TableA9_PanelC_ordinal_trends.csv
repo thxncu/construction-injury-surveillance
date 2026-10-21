@@ -1,0 +1,4 @@
+﻿Specification,n,Coefficient_pp,CI_low_pp,CI_high_pp,p,Model
+Ordinal band score × exemption,28821,-0.3454101520324413,-0.6548783948138256,-0.03594190925105697,0.028699051048496554,Within-band fixed effects
+Ordinal band score × exemption,13847,-0.33895265280555864,-0.6534691717460405,-0.024436133865076738,0.03466570025360989,"Within-band fixed effects, mixed strata only"
+Ordinal band score × exemption,28821,-0.3787817477113513,-0.644743844427694,-0.11281965099500867,0.005248545753036715,Pooled fixed effects

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+title: "Replication package for: Safety-management-plan coverage, site scale and fatal outcomes in reported construction incidents: evidence from South Korea"
+version: 1.2.0
+date-released: 2026-10-06
+license:
+  - MIT
+  - CC-BY-4.0
+authors:
+  - name: "Authors withheld for double-anonymized peer review"
+keywords:
+  - construction safety
+  - safety-management plan
+  - regulatory coverage
+  - injury surveillance
+  - South Korea

@@ -1,0 +1,8 @@
+{
+  "wald_chi2": 293.9051410780258,
+  "effective_df": 42,
+  "nominal_constraints": 50,
+  "p": 1.5839273957744924e-39,
+  "types": 11,
+  "note": "The robust covariance matrix had reduced rank; effective degrees of freedom are reported."
+}

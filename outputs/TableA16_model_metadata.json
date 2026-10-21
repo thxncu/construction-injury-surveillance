@@ -1,0 +1,11 @@
+{
+  "bounded_logit": {
+    "n": 28821,
+    "parameters": 200,
+    "converged": true,
+    "iterations": 78,
+    "covariance": "clustered by event configuration",
+    "estimator": "deterministic logistic IRLS",
+    "event_adjustment": "detailed accident type, detailed accident object, and work process entered as separate categorical terms rather than a full interaction fixed effect"
+  }
+}

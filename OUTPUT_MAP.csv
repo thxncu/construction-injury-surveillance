@@ -1,0 +1,69 @@
+source,engine_file,published_file,used_in
+engine,Figure_1_surveillance_coverage_audit.png,FigA1_conceptual_framework.png,Fig. A.1
+engine,Figure_2_workforce_contrasts_and_support.png,,Not published: Fig. 2 is redrawn in the journal layout by shaw_outputs.py
+engine,Figure_S1_weighted_reporting_reestimation.png,,Not published: Fig. 3 is redrawn in the journal layout by shaw_outputs.py
+engine,Figure_S2_accident_type_heterogeneity.png,FigA2_accident_type_differences.png,Fig. A.2
+engine,Figure_S3_fall_height.png,FigA3_fall_height.png,Fig. A.3
+engine,Table_1A_sample_flow.csv,TableA2_sample_flow.csv,Table A.2
+engine,Table_1B_recurring_vs_singleton.csv,TableA2_recurring_vs_singleton.csv,Table A.2
+engine,Table_2A_within_band_direct_support_contrasts.csv,TableA9_PanelA_within_band_contrasts.csv,Table A.9 Panel A; Fig. 2; Results 3.2
+engine,Table_2B_within_band_direct_support_summary.json,TableA9_PanelA_global_tests.json,Table A.9 Panel A
+engine,Table_2C_pooled_like_event_contrasts.csv,TableA9_PanelB_pooled_contrasts.csv,Table A.9 Panel B; Fig. 2; Results 3.3
+engine,Table_2D_pooled_like_event_summary.json,TableA9_PanelB_global_test.json,Table A.9 Panel B; Table 1 Panel A
+engine,Table_2E_within_band_direct_counts.csv,TableA9_PanelA_overlap_counts.csv,Table A.9 Panel A; Fig. 2 (right panel); Table A.8 Panel D
+engine,Table_2F_500plus_sparse_diagnostics.csv,,Duplicate of Table_S09D (not published)
+engine,Table_2G_500plus_one_event_perturbation.csv,,Duplicate of Table_S09E (not published)
+engine,Table_3A_common_support.csv,,Duplicate of Table_S06A (not published)
+engine,Table_3B_overlap_restricted_binary_interaction.csv,,Duplicate of Table_S06B (not published)
+engine,Table_3C_binary_model_ladder.csv,,Duplicate of Table_S06C (not published)
+engine,Table_S01_variable_definitions.csv,TableA4_variable_definitions.csv,Table A.4
+engine,Table_S02_plan_label_audit.csv,TableA5_plan_label_audit.csv,Table A.5
+engine,Table_S03_workforce_field_evidence.csv,TableA6_workforce_field_evidence.csv,Table A.6
+engine,Table_S03B_workforce_progress_profile.csv,TableA6_progress_profile.csv,Table A.6
+engine,Table_S04_missing_field_composition.csv,TableA3_missing_field_composition.csv,Table A.3
+engine,Table_S05_project_composition_four_groups.csv,TableA7_project_composition.csv,Table A.7; Fig. 1A; Results 3.1
+engine,Table_S06A_common_support.csv,TableA8_PanelA_common_support.csv,Table A.8 Panel A
+engine,Table_S06B_overlap_restricted_estimates.csv,TableA8_PanelB_overlap_restricted.csv,Table A.8 Panel B
+engine,Table_S06C_binary_model_ladder.csv,TableA8_PanelC_model_ladder.csv,Table A.8 Panel C; Fig. 1B; Results 3.1
+engine,Table_S06D_within_band_direct_support.csv,,Duplicate of Table_2E (not published)
+engine,Table_S06E_within_band_direct_support_summary.csv,TableA8_PanelE_global_tests.csv,Table A.8 Panel E; Table 1 Panel A
+engine,Table_S07A_within_band_direct_support_contrasts.csv,,Duplicate of Table_2A (not published)
+engine,Table_S07B_pooled_like_event_contrasts.csv,,Duplicate of Table_2C (not published)
+engine,Table_S07C_exploratory_ordinal_trends.csv,TableA9_PanelC_ordinal_trends.csv,Table A.9 Panel C
+engine,Table_S08_threshold_sensitivity_holm.csv,TableA12_cutoff_sensitivity.csv,Table A.12
+engine,Table_S09A_leave_one_band_out.csv,TableA10_PanelA_leave_one_band_out.csv,Table A.10 Panel A
+engine,Table_S09B_band_aggregation.csv,TableA10_PanelB_band_aggregation.csv,Table A.10 Panel B
+engine,Table_S09C_endpoint_heterogeneity_tests.csv,TableA10_PanelC_endpoint_tests.csv,Table A.10 Panel C; Table 1 Panel A
+engine,Table_S09D_500plus_sparse_diagnostics.csv,TableA10_PanelD_500plus_exact.csv,Table A.10 Panel D; Table 1 Panel B
+engine,Table_S09E_500plus_one_event_perturbation.csv,TableA10_PanelE_500plus_one_event.csv,Table A.10 Panel E; Table 1 Panel B
+engine,Table_S10A_alternative_contract_scale.csv,TableA18_PanelA_contract_value_scale.csv,Table A.18 Panel A; Results 3.4; Discussion 4.3
+engine,Table_S10B_three_category_plan_status.csv,TableA18_PanelB_three_category_status.csv,Table A.18 Panel B
+engine,Table_S11A_same_specification_robustness.csv,TableA13_PanelA_sample_label_period.csv,Table A.13 Panel A
+engine,Table_S11B_extra_project_controls.csv,TableA13_PanelB_project_controls.csv,Table A.13 Panel B
+engine,Table_S11C_single_casualty.csv,TableA13_PanelC_single_casualty.csv,Table A.13 Panel C
+engine,Table_S12_leave_one_year_out.csv,TableA14_leave_one_year_out.csv,Table A.14
+engine,Table_S13_fixed_effect_granularity.csv,TableA15_fixed_effect_granularity.csv,Table A.15
+engine,Table_S14A_bounded_logit_marginal_contrasts.csv,TableA16_PanelA_bounded_logit.csv,Table A.16 Panel A
+engine,Table_S14B_covariance_estimators.csv,TableA16_PanelB_covariance_estimators.csv,Table A.16 Panel B
+engine,Table_S14_model_metadata.json,TableA16_model_metadata.json,Table A.16
+engine,Table_S15A_direct_support_reporting_reestimation.csv,TableA11_PanelA_reporting_within_band.csv,Table A.11 Panel A; Fig. 3
+engine,Table_S15B_pooled_like_event_reporting_reestimation.csv,TableA11_pooled_reporting_curve.csv,Table A.11; Fig. 3
+engine,Table_S15_reporting_crossings.json,TableA11_PanelB_tipping_points.json,Table A.11 Panel B; Fig. 3; Results 3.4
+engine,Table_S16_period_descriptive_check.csv,TableA17_calendar_periods.csv,Table A.17
+engine,Table_S17A_all_broad_accident_categories.csv,TableA19_PanelA_broad_categories.csv,Table A.19 Panel A
+engine,Table_S17B_type_risk_differences.csv,TableA19_PanelB_type_differences.csv,Table A.19 Panel B
+engine,Table_S17_type_omnibus.json,TableA19_type_omnibus.json,Table A.19
+engine,Table_S18A_fall_height_fatality.csv,TableA20_PanelA_fall_height_fatality.csv,Table A.20 Panel A
+engine,Table_S18B_fall_height_composition.csv,TableA20_PanelB_height_composition.csv,Table A.20 Panel B
+engine,Table_S18C_fall_height_standardization.csv,TableA20_PanelC_height_standardization.csv,Table A.20 Panel C
+engine,analysis_summary.json,analysis_summary.json,Machine-readable summary of headline results
+engine,data_dictionary.csv,data_dictionary.csv,Variable dictionary (see also VALUE_LABELS.csv)
+shaw_outputs.py,,Fig1.jpg,"Fig. 1 (submission file, 600 dpi)"
+shaw_outputs.py,,Fig1.pdf,Fig. 1 (vector)
+shaw_outputs.py,,Fig2.jpg,"Fig. 2 (submission file, 600 dpi)"
+shaw_outputs.py,,Fig2.pdf,Fig. 2 (vector)
+shaw_outputs.py,,Fig3.jpg,"Fig. 3 (submission file, 600 dpi)"
+shaw_outputs.py,,Fig3.pdf,Fig. 3 (vector)
+shaw_outputs.py,,Table1_heterogeneity_and_largest_band.csv,Table 1
+shaw_outputs.py,,Text_register_totals_and_worked_example.json,"Sections 2.1 and 2.4 (register totals; worked example)"
+shaw_outputs.py,,TableA10_PanelF_within_band_leave_one_out_trend.csv,"Table A.10, Panel F"

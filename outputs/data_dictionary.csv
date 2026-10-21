@@ -1,0 +1,24 @@
+﻿Variable,English_label,Coding,Use_in_analysis
+record_id,Anonymous record identifier,Sequential identifier assigned after random reordering of rows; carries no information about the source record.,Not used in estimation.
+사고일시,Accident date (pseudonymized day),"YYYY-MM-DD. Year and month are exact. Time of day was removed and the day of month was replaced by a random within-month permutation, so records sharing an accident date still share one.","Defines calendar year, calendar month, accident-date clusters, the February 2021 restriction, and calendar periods."
+공공민간구분,Public/private client,Categorical.,Categorical project control.
+시설물 대분류,Broad facility category,Categorical.,Missing-field composition (building works).
+시설물 중분류,Facility middle category,Categorical.,Additional project-composition control.
+연면적,Gross floor area (m2),Rounded to two significant figures; non-numeric codes indicate not entered.,Rank correlation with the workforce field.
+지상층수,Above-ground storeys,Count; non-numeric codes indicate not entered.,Partial label audit (ten or more storeys); additional project-composition control.
+지하층수,Basement floors,Count; non-numeric codes indicate not entered.,Proxy for excavation depth in the partial label audit; additional project-composition control.
+공사종류,Construction type,Hierarchical label (field/facility/use).,Identifies railway work in the partial label audit.
+인적사고종류(대분류),Broad accident type,Categorical.,Defines the acute traumatic analytic frame and broad-type descriptions.
+인적사고종류,Detailed accident type,Categorical; fall categories carry broad height bands.,Part of the event configuration; fall-height analysis.
+공종(대분류),Broad work category,Categorical.,Additional project-composition control.
+사고객체(대분류),Broad accident object,Categorical.,Fixed-effect granularity sensitivity.
+사고객체(소분류),Detailed accident object,Categorical.,Part of the event configuration; label audit (specified machinery).
+작업프로세스,Work process,Categorical.,Part of the event configuration.
+사망자,Number of deaths,Count.,Fatal outcome equals one when this count exceeds zero.
+부상자,Number of injuries,Count.,"With deaths, excludes property-only incidents."
+공사비,Contract-value band (KRW),Ordered categorical.,Categorical project control; alternative scale measure.
+낙찰율,Award-rate band,Ordered categorical.,Additional sensitivity control.
+공정율,Construction progress band,Ordered categorical.,Categorical project control; workforce-field progress profile.
+작업자수,Recorded workforce band,Ordered categorical (six bands plus not entered).,Effect modifier. The system documentation does not define the reference time of the count.
+안전관리계획,Safety-management-plan status,"Covered (first/second-class facility), covered (other statutory ground), exempt, or not entered.",Coverage indicator; the two covered categories are combined in the primary coding.
+설계안정성검토,Design-safety-review status,Categorical.,Project composition; additional control.

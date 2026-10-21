@@ -1,0 +1,8 @@
+﻿Item,Operational_definition,Role
+Fatal outcome,One if the incident record contains at least one death,Incident-level conditional severity
+Covered,Either statutory plan-coverage category,Regulatory status
+Exempt,Recorded non-covered plan category,Regulatory status
+Recorded workforce,"Six ordered bands: <20, 20–49, 50–99, 100–299, 300–499, 500+",Workforce-band effect modifier
+Acute traumatic sample,"Excludes disease, heat illness, none, not entered, unclassifiable, and property-only incidents",Acute-traumatic analytic frame
+Event configuration,Detailed accident type × detailed accident object × work process,Base event-configuration definition
+Recurring configuration,Event configuration with at least two incidents,Required for within-configuration model

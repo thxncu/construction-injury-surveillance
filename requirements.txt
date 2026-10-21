@@ -1,0 +1,6 @@
+numpy>=2.3,<2.4
+pandas>=2.2,<2.3
+scipy>=1.17,<1.18
+statsmodels>=0.14.6,<0.15
+matplotlib>=3.10,<3.11
+pillow>=12

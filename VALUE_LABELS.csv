@@ -1,0 +1,403 @@
+﻿Variable,Korean_value,English_label,Records
+공공민간구분,민간,Private,21717
+공공민간구분,공공,Public,15191
+공공민간구분,미입력,Not entered,288
+시설물 대분류,건축,Building,25797
+시설물 대분류,토목,Civil engineering,6899
+시설물 대분류,미입력,Not entered,3075
+시설물 대분류,산업환경설비,Industrial and environmental plant,1122
+시설물 대분류,조경,Landscaping,303
+시설물 중분류,건축물,Building structure,25794
+시설물 중분류,미입력,Not entered,3080
+시설물 중분류,상하수도,Water supply and sewerage,1666
+시설물 중분류,도로,Road,1588
+시설물 중분류,기타,Other,918
+시설물 중분류,발전시설,Power generation facility,658
+시설물 중분류,교량,Bridge,632
+시설물 중분류,하천,River works,569
+시설물 중분류,터널,Tunnel,501
+시설물 중분류,철도,Railway,461
+시설물 중분류,항만,Port,305
+시설물 중분류,옹벽 및 절토사면,Retaining wall and cut slope,296
+시설물 중분류,환경시설,Environmental facility,279
+시설물 중분류,산업생산시설,Industrial production facility,185
+시설물 중분류,공원,Park,106
+시설물 중분류,댐,Dam,91
+시설물 중분류,공동구,Utility tunnel,22
+시설물 중분류,숲,Forest,19
+시설물 중분류,정원,Garden,13
+시설물 중분류,생태공원,Ecological park,10
+시설물 중분류,수목원,Arboretum,3
+공사종류,건축/건축물/공동주택,Building / Building structure / Apartment housing,9704
+공사종류,미입력,Not entered,3075
+공사종류,건축/건축물/공장,Building / Building structure / Factory,2720
+공사종류,건축/건축물/업무시설,Building / Building structure / Office facility,2572
+공사종류,건축/건축물/교육연구시설,Building / Building structure / Education and research facility,2568
+공사종류,건축/건축물/근린생활시설,Building / Building structure / Neighborhood facility,2038
+공사종류,토목/도로/도로,Civil engineering / Road / Road,1354
+공사종류,건축/건축물/창고시설,Building / Building structure / Warehouse,984
+공사종류,토목/상하수도/하수도,Civil engineering / Water supply and sewerage / Sewerage,864
+공사종류,토목/기타/부지조성,Civil engineering / Other / Site preparation,696
+공사종류,건축/건축물/기타,Building / Building structure / Other,693
+공사종류,건축/건축물/문화 및 집회시설,Building / Building structure / Cultural and assembly facility,688
+공사종류,산업환경설비/발전시설,Industrial and environmental plant / Power generation facility,658
+공사종류,토목/상하수도/상수도,Civil engineering / Water supply and sewerage / Water supply,558
+공사종류,건축/건축물/숙박시설,Building / Building structure / Lodging facility,537
+공사종류,토목/교량/도로교량,Civil engineering / Bridge / Road bridge,508
+공사종류,건축/건축물/교정 및 군사시설,Building / Building structure / Correctional and military facility,428
+공사종류,건축/건축물/단독주택,Building / Building structure / Detached housing,398
+공사종류,건축/건축물/운동시설,Building / Building structure / Sports facility,358
+공사종류,건축/건축물/의료시설,Building / Building structure / Medical facility,335
+공사종류,건축/건축물/판매시설,Building / Building structure / Retail facility,317
+공사종류,건축/건축물/노유자시설,Building / Building structure / Facility for children and older adults,311
+공사종류,건축/건축물/자동차 관련시설,Building / Building structure / Automobile-related facility,271
+공사종류,토목/철도/지하철,Civil engineering / Railway / Subway,264
+공사종류,토목/상하수도/기타,Civil engineering / Water supply and sewerage / Other,244
+공사종류,토목/하천/기타,Civil engineering / River works / Other,238
+공사종류,건축/건축물/운수시설,Building / Building structure / Transportation facility,231
+공사종류,토목/도로/기타,Civil engineering / Road / Other,231
+공사종류,건축/건축물/종교시설,Building / Building structure / Religious facility,214
+공사종류,토목/터널/도로터널,Civil engineering / Tunnel / Road tunnel,202
+공사종류,토목/터널/철도터널,Civil engineering / Tunnel / Railway tunnel,194
+공사종류,산업환경설비/산업생산시설/석유화학공장,Industrial and environmental plant / Industrial production facility / Petrochemical plant,173
+공사종류,토목/하천/제방(통관/호안),Civil engineering / River works / Embankment (culvert or revetment),156
+공사종류,토목/옹벽 및 절토사면/옹벽,Civil engineering / Retaining wall and cut slope / Retaining wall,156
+공사종류,조경/기타,Landscaping / Other,151
+공사종류,토목/철도/일반 및 고속철도,Civil engineering / Railway / Conventional and high-speed railway,142
+공사종류,산업환경설비/환경시설/하수처리시설,Industrial and environmental plant / Environmental facility / Sewage treatment facility,119
+공사종류,건축/건축물/방송통신시설,Building / Building structure / Broadcasting and telecommunications facility,115
+공사종류,토목/항만/기타,Civil engineering / Port / Other,106
+공사종류,조경/공원,Landscaping / Park,106
+공사종류,토목/항만/방파제,Civil engineering / Port / Breakwater,92
+공사종류,토목/옹벽 및 절토사면/절토사면,Civil engineering / Retaining wall and cut slope / Cut slope,88
+공사종류,토목/터널/기타,Civil engineering / Tunnel / Other,76
+공사종류,토목/하천/관개수로,Civil engineering / River works / Irrigation channel,76
+공사종류,토목/교량/기타,Civil engineering / Bridge / Other,72
+공사종류,건축/건축물/위험물 저장 및 처리시설,Building / Building structure / Hazardous materials storage and handling facility,65
+공사종류,토목/항만/계류시설,Civil engineering / Port / Mooring facility,64
+공사종류,건축/건축물/관광 휴게시설,Building / Building structure / Tourist rest facility,57
+공사종류,건축/건축물/수련시설,Building / Building structure / Youth training facility,57
+공사종류,토목/철도/기타,Civil engineering / Railway / Other,55
+공사종류,산업환경설비/환경시설/환경오염방지시설,Industrial and environmental plant / Environmental facility / Pollution control facility,52
+공사종류,토목/옹벽 및 절토사면/기타,Civil engineering / Retaining wall and cut slope / Other,52
+공사종류,토목/교량/철도교량,Civil engineering / Bridge / Railway bridge,49
+공사종류,토목/댐/용수전용댐,Civil engineering / Dam / Water-supply dam,48
+공사종류,산업환경설비/환경시설/소각장,Industrial and environmental plant / Environmental facility / Incinerator,48
+공사종류,건축/건축물,Building / Building structure,46
+공사종류,토목/하천/배수펌프장,Civil engineering / River works / Drainage pumping station,45
+공사종류,건축/건축물/동물 및 식물 관련시설,Building / Building structure / Animal and plant facility,39
+공사종류,토목/기타,Civil engineering / Other,39
+공사종류,토목/항만/호안,Civil engineering / Port / Revetment,34
+공사종류,토목/하천/수문/통문,Civil engineering / River works / Sluice or culvert gate,33
+공사종류,토목/기타/간척매립,Civil engineering / Other / Reclamation and landfill,32
+공사종류,토목/댐/기타,Civil engineering / Dam / Other,29
+공사종류,산업환경설비/환경시설/수처리설비시설,Industrial and environmental plant / Environmental facility / Water treatment facility,29
+공사종류,토목/터널/지하차도,Civil engineering / Tunnel / Underpass,28
+공사종류,건축/건축물/묘지관련시설,Building / Building structure / Cemetery-related facility,27
+공사종류,산업환경설비/환경시설/공공폐수처리시설,Industrial and environmental plant / Environmental facility / Public wastewater treatment facility,24
+공사종류,토목/공동구,Civil engineering / Utility tunnel,22
+공사종류,토목/하천/보,Civil engineering / River works / Weir,21
+공사종류,조경/숲,Landscaping / Forest,19
+공사종류,조경/정원,Landscaping / Garden,13
+공사종류,건축/건축물/위락시설,Building / Building structure / Amusement facility,11
+공사종류,토목/댐/다목적댐,Civil engineering / Dam / Multipurpose dam,11
+공사종류,조경/생태공원,Landscaping / Ecological park,10
+공사종류,산업환경설비/산업생산시설/제철공장,Industrial and environmental plant / Industrial production facility / Steel mill,9
+공사종류,건축/건축물/장례시설,Building / Building structure / Funeral facility,8
+공사종류,토목/항만/갑문,Civil engineering / Port / Lock gate,5
+공사종류,산업환경설비/환경시설/중수도/하폐수처리수 재이용시설,Industrial and environmental plant / Environmental facility / Water reuse facility (greywater or treated wastewater),5
+공사종류,건축,Building,3
+공사종류,토목/도로,Civil engineering / Road,3
+공사종류,토목/항만/파제제,Civil engineering / Port / Wave-dissipating structure,3
+공사종류,산업환경설비/산업생산시설,Industrial and environmental plant / Industrial production facility,3
+공사종류,조경/수목원,Landscaping / Arboretum,3
+공사종류,토목/교량/복개구조물,Civil engineering / Bridge / Covered-channel structure,3
+공사종류,산업환경설비/환경시설,Industrial and environmental plant / Environmental facility,2
+공사종류,토목/댐/홍수전용댐,Civil engineering / Dam / Flood-control dam,2
+공사종류,조경,Landscaping,1
+공사종류,토목/댐/발전용댐,Civil engineering / Dam / Hydropower dam,1
+공사종류,토목/항만,Civil engineering / Port,1
+공사종류,건축/건축물/야영장시설,Building / Building structure / Campground,1
+공사종류,건축/건축물/지하도상가,Building / Building structure / Underground shopping arcade,1
+공사종류,토목,Civil engineering,1
+공사종류,토목/터널,Civil engineering / Tunnel,1
+인적사고종류(대분류),넘어짐,Slip or trip,8451
+인적사고종류(대분류),떨어짐,Fall from height,5973
+인적사고종류(대분류),물체에 맞음,Struck by object,4922
+인적사고종류(대분류),끼임,Caught in or between,3712
+인적사고종류(대분류),미입력,Not entered,3030
+인적사고종류(대분류),부딪힘,Struck against,3004
+인적사고종류(대분류),기타,Other,2690
+인적사고종류(대분류),"절단, 베임",Cut or laceration,2549
+인적사고종류(대분류),깔림,Crushed or buried,752
+인적사고종류(대분류),질병,Disease,582
+인적사고종류(대분류),찔림,Puncture,463
+인적사고종류(대분류),분류불능,Unclassifiable,360
+인적사고종류(대분류),없음,None,329
+인적사고종류(대분류),화재,Fire,282
+인적사고종류(대분류),감전,Electrocution,66
+인적사고종류(대분류),질식,Asphyxiation,27
+인적사고종류(대분류),무너짐,Collapse,2
+인적사고종류(대분류),온열질환,Heat illness,2
+인적사고종류,물체에 맞음,Struck by object,4922
+인적사고종류,끼임,Caught in or between,3712
+인적사고종류,넘어짐(미끄러짐),Slip or trip (slipping),3343
+인적사고종류,미입력,Not entered,3030
+인적사고종류,부딪힘,Struck against,3004
+인적사고종류,넘어짐(기타),Slip or trip (other),2787
+인적사고종류,기타,Other,2690
+인적사고종류,떨어짐(2미터 미만),Fall from height (<2 m),2652
+인적사고종류,"절단, 베임",Cut or laceration,2549
+인적사고종류,넘어짐(물체에 걸림),Slip or trip (tripping over an object),2321
+인적사고종류,떨어짐(2미터 이상 ~ 3미터 미만),Fall from height (2 to <3 m),1096
+인적사고종류,떨어짐(3미터 이상 ~ 5미터 미만),Fall from height (3 to <5 m),774
+인적사고종류,깔림,Crushed or buried,752
+인적사고종류,떨어짐(분류불능),Fall from height (height unclassifiable),752
+인적사고종류,질병,Disease,582
+인적사고종류,찔림,Puncture,463
+인적사고종류,떨어짐(5미터 이상 ~ 10미터 미만),Fall from height (5 to <10 m),400
+인적사고종류,분류불능,Unclassifiable,360
+인적사고종류,없음,None,329
+인적사고종류,떨어짐(10미터 이상),Fall from height (>=10 m),299
+인적사고종류,화재,Fire,282
+인적사고종류,감전,Electrocution,66
+인적사고종류,질식,Asphyxiation,27
+인적사고종류,무너짐,Collapse,2
+인적사고종류,온열질환,Heat illness,2
+공종(대분류),건축,Building,20872
+공종(대분류),토목,Civil,7911
+공종(대분류),미입력,Not entered,3114
+공종(대분류),기타,Other,2747
+공종(대분류),기계설비,Mechanical services,1435
+공종(대분류),전기설비,Electrical services,724
+공종(대분류),산업설비,Industrial plant,380
+공종(대분류),통신설비,Telecommunications,13
+사고객체(대분류),가시설,Temporary works,9305
+사고객체(대분류),기타,Other,7073
+사고객체(대분류),건설자재,Construction materials,6602
+사고객체(대분류),미입력,Not entered,3822
+사고객체(대분류),건설공구,Construction tools,3689
+사고객체(대분류),건설기계,Construction machinery,2484
+사고객체(대분류),시설물,Permanent structure,1440
+사고객체(대분류),부재,Structural member,1390
+사고객체(대분류),토사 및 암반,Soil and rock,796
+사고객체(대분류),질병,Disease,595
+사고객체(소분류),기타,Other,6194
+사고객체(소분류),자재,Materials,4042
+사고객체(소분류),미입력,Not entered,3822
+사고객체(소분류),공구류,Tools,3056
+사고객체(소분류),거푸집,Formwork,2479
+사고객체(소분류),비계,Scaffolding,1958
+사고객체(소분류),철근,Reinforcing bar,1461
+사고객체(소분류),건물,Building,1177
+사고객체(소분류),작업발판,Work platform,1059
+사고객체(소분류),기타 가시설,Other temporary works,788
+사고객체(소분류),흙막이가시설,Earth-retaining temporary works,670
+사고객체(소분류),굴착기,Excavator,617
+사고객체(소분류),시스템동바리,System shoring,616
+사고객체(소분류),사다리,Ladder,607
+사고객체(소분류),질병,Disease,595
+사고객체(소분류),철골부재,Structural steel member,447
+사고객체(소분류),강관동바리,Steel-pipe shoring,336
+사고객체(소분류),배관,Piping,295
+사고객체(소분류),안전시설물,Safety installation,291
+사고객체(소분류),기중기(이동식크레인 등),Crane (mobile crane etc.),283
+사고객체(소분류),고소작업차(고소작업대 등),Aerial work vehicle (aerial work platform etc.),278
+사고객체(소분류),차량,Vehicle,273
+사고객체(소분류),가설계단,Temporary stairway,271
+사고객체(소분류),슬래브,Slab,264
+사고객체(소분류),지반,Ground,228
+사고객체(소분류),덤프트럭,Dump truck,222
+사고객체(소분류),데크플레이트,Deck plate,221
+사고객체(소분류),굴착사면,Excavation slope,199
+사고객체(소분류),파이프서포트,Pipe support (prop),184
+사고객체(소분류),타워크레인,Tower crane,178
+사고객체(소분류),항타 및 항발기,Pile driver and extractor,168
+사고객체(소분류),건설폐기물,Construction waste,158
+사고객체(소분류),창호,Windows and doors,152
+사고객체(소분류),지게차,Forklift,146
+사고객체(소분류),옹벽,Retaining wall,140
+사고객체(소분류),콘크리트펌프,Concrete pump,133
+사고객체(소분류),작업대차,Work trolley,127
+사고객체(소분류),천공기,Drilling rig,127
+사고객체(소분류),지지대,Support,120
+사고객체(소분류),벽체,Wall,116
+사고객체(소분류),지하매설물,Buried utility,112
+사고객체(소분류),핀,Pin,109
+사고객체(소분류),"전주, 전선",Utility pole or power line,109
+사고객체(소분류),특수거푸집(갱폼 등),Special formwork (gang form etc.),104
+사고객체(소분류),콘크리트믹서트럭,Concrete mixer truck,104
+사고객체(소분류),띠장,Wale,104
+사고객체(소분류),덕트,Duct,101
+사고객체(소분류),경사면,Slope,100
+사고객체(소분류),비산물,Flying debris,91
+사고객체(소분류),절토사면,Cut slope,91
+사고객체(소분류),개구부,Opening,84
+사고객체(소분류),버팀보,Strut,83
+사고객체(소분류),천정패널,Ceiling panel,79
+사고객체(소분류),와이어로프,Wire rope,75
+사고객체(소분류),버팀대,Raker brace,68
+사고객체(소분류),부석,Loose rock,65
+사고객체(소분류),낙하물방지망,Debris net,64
+사고객체(소분류),볼트,Bolt,62
+사고객체(소분류),복공판,Deck cover plate,58
+사고객체(소분류),롤러,Roller,57
+사고객체(소분류),거더,Girder,55
+사고객체(소분류),특수건설기계,Special construction machinery,50
+사고객체(소분류),조적벽체,Masonry wall,43
+사고객체(소분류),수평연결재,Horizontal tie (ledger),37
+사고객체(소분류),잭서포트,Jack support,35
+사고객체(소분류),파형강판,Corrugated steel plate,34
+사고객체(소분류),성토사면,Fill slope,34
+사고객체(소분류),석축,Stone retaining wall,33
+사고객체(소분류),지주가설재,Temporary post,32
+사고객체(소분류),철망,Wire mesh,29
+사고객체(소분류),담장,Fence wall,28
+사고객체(소분류),기성말뚝,Precast pile,26
+사고객체(소분류),몰탈혼합기,Mortar mixer,26
+사고객체(소분류),방음벽,Noise barrier,25
+사고객체(소분류),터널 막장면,Tunnel face,25
+사고객체(소분류),벽돌,Brick,24
+사고객체(소분류),브라켓,Bracket,23
+사고객체(소분류),엄지말뚝,Soldier pile,23
+사고객체(소분류),어스오거,Earth auger,22
+사고객체(소분류),레일,Rail,21
+사고객체(소분류),암사면,Rock slope,21
+사고객체(소분류),로더,Loader,21
+사고객체(소분류),체인블럭,Chain block,21
+사고객체(소분류),콘크리트살포기,Concrete spreader,20
+사고객체(소분류),가설도로,Temporary road,18
+사고객체(소분류),지하벽체,Basement wall,14
+사고객체(소분류),보강토 옹벽,Reinforced-earth retaining wall,13
+사고객체(소분류),PSC빔,Prestressed concrete beam,13
+사고객체(소분류),교량 바닥판,Bridge deck slab,13
+사고객체(소분류),준설선,Dredger,12
+사고객체(소분류),전도방지재,Anti-overturning member,11
+사고객체(소분류),선라이트,Skylight,11
+사고객체(소분류),콘크리트피니셔,Concrete finisher,10
+사고객체(소분류),위험물저장탱크,Hazardous-material storage tank,10
+사고객체(소분류),RCS발판,Rail climbing system platform,10
+사고객체(소분류),터널 천단부,Tunnel crown,9
+사고객체(소분류),유증기,Oil vapor,9
+사고객체(소분류),방호선반,Protective canopy,9
+사고객체(소분류),불도저,Bulldozer,9
+사고객체(소분류),트러스,Truss,8
+사고객체(소분류),터널 갱구부,Tunnel portal,7
+사고객체(소분류),가새,Diagonal brace,7
+사고객체(소분류),가물막이,Cofferdam,7
+사고객체(소분류),교대 기초,Abutment foundation,6
+사고객체(소분류),콘크리트뱃칭플랜트,Concrete batching plant,6
+사고객체(소분류),공기압축기,Air compressor,6
+사고객체(소분류),모터그레이더,Motor grader,6
+사고객체(소분류),슬레이트,Slate,6
+사고객체(소분류),교각 기초,Pier foundation,5
+사고객체(소분류),돌담,Stone wall,5
+사고객체(소분류),강박스,Steel box girder,5
+사고객체(소분류),안전핀,Safety pin,5
+사고객체(소분류),쇄석기,Rock crusher,4
+사고객체(소분류),벽이음,Wall tie,4
+사고객체(소분류),현장타설말뚝,Cast-in-place pile,4
+사고객체(소분류),주탑,Pylon,2
+사고객체(소분류),아스팔트살포기,Asphalt distributor,2
+사고객체(소분류),아스팔트피니셔,Asphalt finisher,1
+사고객체(소분류),골재살포기,Aggregate spreader,1
+사고객체(소분류),노상안정기,Soil stabilizer,1
+사고객체(소분류),클라이밍콘,Climbing cone,1
+작업프로세스,설치작업,Installation,5822
+작업프로세스,이동,Moving about the site,3724
+작업프로세스,해체작업,Dismantling,3595
+작업프로세스,미입력,Not entered,3249
+작업프로세스,운반작업,Carrying,3052
+작업프로세스,기타,Other,2423
+작업프로세스,정리작업,Tidying up,2213
+작업프로세스,조립작업,Assembly,1570
+작업프로세스,형틀 및 목공,Formwork and carpentry,1343
+작업프로세스,마감작업,Finishing,1144
+작업프로세스,타설작업,Concrete placing,1140
+작업프로세스,절단작업,Cutting,1050
+작업프로세스,준비작업,Preparation,904
+작업프로세스,설비작업,Building services work,516
+작업프로세스,청소작업,Cleaning,431
+작업프로세스,도장작업,Painting,419
+작업프로세스,굴착작업,Excavation,409
+작업프로세스,연결작업,Connecting,340
+작업프로세스,용접작업,Welding,337
+작업프로세스,상차 및 하역작업,Loading and unloading,328
+작업프로세스,인양작업,Lifting,318
+작업프로세스,양중작업,Hoisting,251
+작업프로세스,보수 및 교체작업,Repair and replacement,231
+작업프로세스,천공작업,Drilling,231
+작업프로세스,쌓기작업,Stacking or masonry laying,223
+작업프로세스,확인 및 점검작업,Checking and inspection,221
+작업프로세스,매설작업,Burying (pipes or cables),213
+작업프로세스,전기작업,Electrical work,182
+작업프로세스,부설 및 다짐작업,Laying and compaction,162
+작업프로세스,반출작업,Hauling out,151
+작업프로세스,정비작업,Maintenance,144
+작업프로세스,항타 및 항발작업,Pile driving and extraction,135
+작업프로세스,벌목작업,Tree felling,134
+작업프로세스,거치작업,Setting in place,123
+작업프로세스,적재작업,Stowing,104
+작업프로세스,고소작업,Work at height,78
+작업프로세스,절취작업,Earth cutting,72
+작업프로세스,양생작업,Curing,60
+작업프로세스,물뿌리기 작업,Water spraying,59
+작업프로세스,측량작업,Surveying,40
+작업프로세스,장약 및 발파작업,Charging and blasting,29
+작업프로세스,인발작업,Pulling out,26
+공사비,"1,000억원 이상",KRW >=100 billion,11617
+공사비,"500억 ~ 1,000억원 미만",KRW 50 to <100 billion,3683
+공사비,미입력,Not entered,3125
+공사비,50억 ~ 100억원 미만,KRW 5 to <10 billion,2991
+공사비,20억 ~ 50억원 미만,KRW 2 to <5 billion,2702
+공사비,300억 ~ 500억원 미만,KRW 30 to <50 billion,2548
+공사비,100억 ~ 150억원 미만,KRW 10 to <15 billion,2284
+공사비,200억 ~ 300억원 미만,KRW 20 to <30 billion,2106
+공사비,150억 ~ 200억원 미만,KRW 15 to <20 billion,1576
+공사비,10억 ~ 20억원 미만,KRW 1 to <2 billion,1403
+공사비,5억 ~ 10억원 미만,KRW 500 million to <1 billion,975
+공사비,3억 ~ 5억원 미만,KRW 300 to <500 million,612
+공사비,2억 ~ 3억원 미만,KRW 200 to <300 million,336
+공사비,1억 ~ 2억원 미만,KRW 100 to <200 million,336
+공사비,"4,000만 ~ 1억원 미만",KRW 40 to <100 million,246
+공사비,분류불능,Unclassifiable,198
+공사비,"1,000만 ~ 2,000만원 미만",KRW 10 to <20 million,162
+공사비,"2,000만 ~ 4,000만원 미만",KRW 20 to <40 million,155
+공사비,"1,000만원 미만",KRW <10 million,141
+낙찰율,90% 이상,>=90%,17125
+낙찰율,85~89%,85-89%,9231
+낙찰율,80~84%,80-84%,4925
+낙찰율,미입력,Not entered,2316
+낙찰율,75~79%,75-79%,1915
+낙찰율,60% 미만,<60%,851
+낙찰율,70~74%,70-74%,596
+낙찰율,65~69%,65-69%,157
+낙찰율,60~64%,60-64%,80
+공정율,90% 이상,>=90%,5005
+공정율,30~39%,30-39%,3779
+공정율,20~29%,20-29%,3641
+공정율,10~19%,10-19%,3382
+공정율,40~49%,40-49%,3267
+공정율,50~59%,50-59%,3246
+공정율,80~89%,80-89%,3204
+공정율,미입력,Not entered,3186
+공정율,60~69%,60-69%,2949
+공정율,70~79%,70-79%,2918
+공정율,10% 미만,<10%,2619
+작업자수,19인 이하,<20 (19 or fewer),11401
+작업자수,100~299인,100-299,6888
+작업자수,20~49인,20-49,6403
+작업자수,50~99인,50-99,4502
+작업자수,미입력,Not entered,3194
+작업자수,500인 이상,500 or more,2783
+작업자수,300~499인,300-499,2025
+안전관리계획,대상현장(1/2종),Covered: first- or second-class facility,18634
+안전관리계획,대상현장(1/2종외),Covered: other statutory ground,8128
+안전관리계획,비대상현장,Exempt,7246
+안전관리계획,미입력,Not entered,3188
+설계안정성검토,비대상,Not required,21731
+설계안정성검토,대상,Required,12601
+설계안정성검토,미입력,Not entered,2864
+지상층수,미입력,Not entered,13885
+지하층수,미입력,Not entered,13993
+연면적,미입력,Not entered,13909

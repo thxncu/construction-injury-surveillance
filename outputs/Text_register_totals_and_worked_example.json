@@ -1,0 +1,57 @@
+{
+  "register": {
+    "Records": 37196,
+    "Persons_died": 1657,
+    "Persons_injured": 36069,
+    "First_accident_month": "2019-07",
+    "Last_accident_month": "2025-06"
+  },
+  "worked_example": {
+    "Detailed_accident_type": "Fall from 2 m to less than 3 m (떨어짐(2미터 이상 ~ 3미터 미만))",
+    "Detailed_accident_object": "Scaffolding (비계)",
+    "Work_process": "Installation (설치작업)",
+    "Recurring_sample_incidents": 29,
+    "By_workforce_band": [
+      {
+        "Workforce_band": "<20",
+        "Covered_incidents": 7,
+        "Covered_fatal_incidents": 0,
+        "Exempt_incidents": 6,
+        "Exempt_fatal_incidents": 2,
+        "Mixed_stratum": true
+      },
+      {
+        "Workforce_band": "20–49",
+        "Covered_incidents": 5,
+        "Covered_fatal_incidents": 0,
+        "Exempt_incidents": 0,
+        "Exempt_fatal_incidents": 0,
+        "Mixed_stratum": false
+      },
+      {
+        "Workforce_band": "50–99",
+        "Covered_incidents": 4,
+        "Covered_fatal_incidents": 0,
+        "Exempt_incidents": 1,
+        "Exempt_fatal_incidents": 1,
+        "Mixed_stratum": true
+      },
+      {
+        "Workforce_band": "100–299",
+        "Covered_incidents": 4,
+        "Covered_fatal_incidents": 0,
+        "Exempt_incidents": 0,
+        "Exempt_fatal_incidents": 0,
+        "Mixed_stratum": false
+      },
+      {
+        "Workforce_band": "500+",
+        "Covered_incidents": 2,
+        "Covered_fatal_incidents": 0,
+        "Exempt_incidents": 0,
+        "Exempt_fatal_incidents": 0,
+        "Mixed_stratum": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "within_band_direct_support": {
+    "model": "Within-band fixed effects",
+    "under20_simple_contrast_zero_crossing": 0.6680803083177381,
+    "under20_vs_largest_difference_zero_crossing": 0.4769097543538739,
+    "weighting_interpretation": "A nonfatal incident in the under-20 exempt group receives frequency weight 1/r; fatal incidents and all other records retain weight 1."
+  },
+  "pooled_like_event": {
+    "under20_simple_contrast_zero_crossing": 0.7297666648964936,
+    "under20_vs_largest_difference_zero_crossing": 0.4282545893358401,
+    "weighting_interpretation": "A nonfatal incident in the under-20 exempt group receives frequency weight 1/r; fatal incidents and all other groups retain weight 1."
+  }
+}

@@ -1,0 +1,11 @@
+﻿Panel,Test_or_diagnostic,Within_band_model_or_mixed_strata,Pooled_model_or_all_reports
+A,"Six bands, χ² (5 df)",7.41 (p = 0.192),12.03 (p = 0.034)
+A,"Six bands, mixed strata only, χ² (5 df)",6.69 (p = 0.245),NA
+A,"Excluding fewer than 20 workers, χ² (4 df)",1.63 (p = 0.804),4.37 (p = 0.359)
+A,"Excluding 500 or more workers, χ² (4 df)",3.47 (p = 0.482),3.94 (p = 0.414)
+A,"Four middle bands, χ² (3 df)",0.37 (p = 0.947),0.46 (p = 0.927)
+B,Exempt fatal/reported incidents,0/246,1/313
+B,Covered fatal/reported incidents,4/755,"32/2,049"
+B,"Unadjusted risk difference, pp (95% CI)",−0.53 (−1.35 to 1.04),−1.24 (−1.93 to 0.29)
+B,Fisher exact p,0.577,0.115
+B,"Adjusted contrast after recoding one exempt nonfatal incident as fatal, pp",−0.38 to +0.03,−0.92 to −0.68

@@ -1,0 +1,3 @@
+﻿Comparison,Exempt_deaths,Exempt_incidents,Covered_deaths,Covered_incidents,Raw_risk_difference_pp,Newcombe_CI_low_pp,Newcombe_CI_high_pp,Fisher_exact_p,Mixed_strata,Outcome_varying_mixed_strata
+All 500+ reports,1,313,32,2049,-1.242248615002721,-1.9292212089285241,0.2939078663965049,0.11516776522842523,,
+Mixed strata (within-band model),0,246,4,755,-0.5298013245033113,-1.3542489209711783,1.0414381689724688,0.5773525382343019,141.0,3.0
